@@ -1,0 +1,6 @@
+FOLDERS
+powerplants
+
+OPTIONS
+compile yes
+merge factories.all.pak
